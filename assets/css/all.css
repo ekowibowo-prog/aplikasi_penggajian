@@ -1,0 +1,11 @@
+table th,
+table td {
+	padding: 10px; /* Tambahkan padding untuk ruang antar sel */
+}
+.table {
+	table-layout: auto; /* Atur lebar kolom secara otomatis sesuai konten */
+}
+body {
+	font-family: Arial;
+	color: black;
+}
